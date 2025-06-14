@@ -2,6 +2,8 @@
 
 ## 🔍 Overview
 
+![Overview](figures/Overview.png)
+
 Single image deraining in real-world scenarios remains challenging due to the domain gap between synthetic and real rainy images. While models like **Restormer** perform well on synthetic datasets, they struggle to generalize to complex real-world scenes.
 
 We propose **FSDerain**, a **Frequency–Spatial Dual-Branch Fine-Tuning** framework to improve Restormer's performance in real-scene deraining without modifying its backbone. Our method introduces two complementary components:
