@@ -37,6 +37,7 @@ datasets/
 ```
 
 You can download these two datasets from [LHP-Rain](https://yunguo224.github.io/LHP-Rain.github.io/) and [RE-RAIN](https://pan.baidu.com/share/init?surl=0Y77VgT1Gs1D3hz5XJj8og&pwd=o9px).
+You can also download the pre-trained **Restormer** model for fine-tuning from [here](https://drive.google.com/drive/folders/1ZEDDEVW0UgkpWi-N4Lj_JUoVChGXCu_u).
 
 ---
 
